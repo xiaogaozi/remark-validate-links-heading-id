@@ -8,11 +8,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Changjian Gao <gaochangjian@gmail.com>",
   "license": "ISC",
   "packageManager": "yarn@3.3.0",
   "dependencies": {
     "@docusaurus/utils": "^2.2.0",
     "unist-util-visit": "^4.1.1"
-  }
+  },
+  "files": [
+    "src/*"
+  ]
 }
