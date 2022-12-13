@@ -1,0 +1,18 @@
+{
+  "name": "remark-validate-links-heading-id",
+  "version": "0.0.1",
+  "description": "The plugin for remark-validate-links to support custom heading ID",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@3.3.0",
+  "dependencies": {
+    "@docusaurus/utils": "^2.2.0",
+    "unist-util-visit": "^4.1.1"
+  }
+}
