@@ -1,5 +1,5 @@
 module.exports = {
-  environments: ['browser'],
+  environments: ['browser', 'node'],
   maxLineLength: 88,
   importDevDependencies: true,
 };
