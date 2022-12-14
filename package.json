@@ -1,15 +1,28 @@
 {
   "name": "remark-validate-links-heading-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The plugin for remark-validate-links to support custom heading ID",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "unified",
+    "remark",
+    "remark-plugin",
+    "plugin",
+    "mdast",
+    "markdown",
+    "validate",
+    "link",
+    "reference",
+    "file",
+    "heading"
+  ],
   "author": "Changjian Gao <gaochangjian@gmail.com>",
-  "license": "ISC",
+  "repository": "github:xiaogaozi/remark-validate-links-heading-id",
+  "license": "MIT",
   "packageManager": "yarn@3.3.0",
   "dependencies": {
     "@docusaurus/utils": "^2.2.0",
