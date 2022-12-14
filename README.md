@@ -1,5 +1,7 @@
 # remark-validate-links-heading-id
 
+[![npm](https://img.shields.io/npm/v/remark-validate-links-heading-id?color=blue)](https://www.npmjs.com/package/remark-validate-links-heading-id)
+
 The plugin for [remark-validate-links](https://github.com/remarkjs/remark-validate-links) to support custom heading ID (e.g. `# Heading {#custom-heading-id}`).
 
 ## Installation
