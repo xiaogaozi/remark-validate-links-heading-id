@@ -1,6 +1,6 @@
 {
   "name": "remark-validate-links-heading-id",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The plugin for remark-validate-links to support custom heading ID",
   "type": "module",
   "main": "src/index.js",
